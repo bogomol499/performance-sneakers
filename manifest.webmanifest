@@ -1,0 +1,20 @@
+{
+  "name": "Performance — кроссовки в Москве",
+  "short_name": "Performance",
+  "description": "Магазин кроссовок на Покровке: Nike, Adidas, Golden Goose.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1A1C20",
+  "theme_color": "#E9E9E6",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Мужчинам", "url": "./#catalog" },
+    { "name": "Дроп", "url": "./#drop" }
+  ]
+}
